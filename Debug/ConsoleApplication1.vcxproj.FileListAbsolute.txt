@@ -1,0 +1,2 @@
+C:\Users\Eslam Hamouda Ali\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Eslam Hamouda Ali\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.pdb
